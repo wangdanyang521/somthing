@@ -101,11 +101,3 @@ $("#form_login").submit(function(e) {
     })
 
 })
-
-
-
-
-
-// 将登录成功得到的 token 字符串，保存到 localStorage 中
-
-// 跳转到后台主页
